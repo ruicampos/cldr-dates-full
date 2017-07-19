@@ -311,7 +311,7 @@
             "dateFormats": {
               "full": "EEEE, d 'de' MMMM 'de' y",
               "long": "d 'de' MMMM 'de' y",
-              "medium": "dd/MM/y",
+              "medium": "d 'de' MMM 'de' y",
               "short": "dd/MM/yy"
             },
             "timeFormats": {
